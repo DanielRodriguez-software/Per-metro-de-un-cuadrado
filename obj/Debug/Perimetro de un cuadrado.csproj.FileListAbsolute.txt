@@ -1,0 +1,20 @@
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Perimetro de un cuadrado\bin\Debug\Perimetro de un cuadrado.exe.config
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Perimetro de un cuadrado\bin\Debug\Perimetro de un cuadrado.exe
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Perimetro de un cuadrado\bin\Debug\Perimetro de un cuadrado.pdb
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Perimetro de un cuadrado\obj\Debug\Perimetro de un cuadrado.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Perimetro de un cuadrado\obj\Debug\Perimetro_de_un_cuadrado.Form1.resources
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Perimetro de un cuadrado\obj\Debug\Perimetro_de_un_cuadrado.Properties.Resources.resources
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Perimetro de un cuadrado\obj\Debug\Perimetro de un cuadrado.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Perimetro de un cuadrado\obj\Debug\Perimetro de un cuadrado.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Perimetro de un cuadrado\obj\Debug\Perimetro de un cuadrado.exe
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Perimetro de un cuadrado\obj\Debug\Perimetro de un cuadrado.pdb
+C:\Users\Estudiante\Desktop\Perimetro de un cuadrado\bin\Debug\Perimetro de un cuadrado.exe.config
+C:\Users\Estudiante\Desktop\Perimetro de un cuadrado\bin\Debug\Perimetro de un cuadrado.exe
+C:\Users\Estudiante\Desktop\Perimetro de un cuadrado\bin\Debug\Perimetro de un cuadrado.pdb
+C:\Users\Estudiante\Desktop\Perimetro de un cuadrado\obj\Debug\Perimetro de un cuadrado.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Perimetro de un cuadrado\obj\Debug\Perimetro_de_un_cuadrado.Form1.resources
+C:\Users\Estudiante\Desktop\Perimetro de un cuadrado\obj\Debug\Perimetro_de_un_cuadrado.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\Perimetro de un cuadrado\obj\Debug\Perimetro de un cuadrado.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\Perimetro de un cuadrado\obj\Debug\Perimetro de un cuadrado.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Perimetro de un cuadrado\obj\Debug\Perimetro de un cuadrado.exe
+C:\Users\Estudiante\Desktop\Perimetro de un cuadrado\obj\Debug\Perimetro de un cuadrado.pdb
