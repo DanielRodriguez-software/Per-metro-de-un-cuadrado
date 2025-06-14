@@ -30,13 +30,13 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.gbPantalla_principal = new System.Windows.Forms.GroupBox();
+            this.lblError = new System.Windows.Forms.Label();
             this.btnLimpiar = new System.Windows.Forms.Button();
             this.btnResolver = new System.Windows.Forms.Button();
             this.txtPerimetro = new System.Windows.Forms.TextBox();
             this.txtLado = new System.Windows.Forms.TextBox();
             this.lblPerimetro = new System.Windows.Forms.Label();
             this.lblLado = new System.Windows.Forms.Label();
-            this.lblError = new System.Windows.Forms.Label();
             this.gbPantalla_principal.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -58,23 +58,40 @@
             this.gbPantalla_principal.TabStop = false;
             this.gbPantalla_principal.Text = "Pantalla principal";
             // 
+            // lblError
+            // 
+            this.lblError.AutoSize = true;
+            this.lblError.ForeColor = System.Drawing.Color.Red;
+            this.lblError.Location = new System.Drawing.Point(346, 135);
+            this.lblError.Name = "lblError";
+            this.lblError.Size = new System.Drawing.Size(44, 17);
+            this.lblError.TabIndex = 6;
+            this.lblError.Text = "Error";
+            this.lblError.Click += new System.EventHandler(this.lblError_Click);
+            // 
             // btnLimpiar
             // 
-            this.btnLimpiar.Location = new System.Drawing.Point(416, 75);
+            this.btnLimpiar.Image = global::Perimetro_de_un_cuadrado.Properties.Resources.icons8_broom_48;
+            this.btnLimpiar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnLimpiar.Location = new System.Drawing.Point(327, 73);
             this.btnLimpiar.Name = "btnLimpiar";
-            this.btnLimpiar.Size = new System.Drawing.Size(75, 23);
+            this.btnLimpiar.Size = new System.Drawing.Size(99, 46);
             this.btnLimpiar.TabIndex = 5;
             this.btnLimpiar.Text = "limpiar";
+            this.btnLimpiar.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnLimpiar.UseVisualStyleBackColor = true;
             this.btnLimpiar.Click += new System.EventHandler(this.btnLimpiar_Click);
             // 
             // btnResolver
             // 
-            this.btnResolver.Location = new System.Drawing.Point(416, 32);
+            this.btnResolver.Image = global::Perimetro_de_un_cuadrado.Properties.Resources.icons8_add_48;
+            this.btnResolver.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnResolver.Location = new System.Drawing.Point(313, 17);
             this.btnResolver.Name = "btnResolver";
-            this.btnResolver.Size = new System.Drawing.Size(75, 23);
+            this.btnResolver.Size = new System.Drawing.Size(123, 50);
             this.btnResolver.TabIndex = 4;
             this.btnResolver.Text = "Resolver";
+            this.btnResolver.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnResolver.UseVisualStyleBackColor = true;
             this.btnResolver.Click += new System.EventHandler(this.btnResolver_Click);
             // 
@@ -112,16 +129,6 @@
             this.lblLado.Size = new System.Drawing.Size(48, 17);
             this.lblLado.TabIndex = 0;
             this.lblLado.Text = "Lado:";
-            // 
-            // lblError
-            // 
-            this.lblError.AutoSize = true;
-            this.lblError.ForeColor = System.Drawing.Color.Red;
-            this.lblError.Location = new System.Drawing.Point(402, 114);
-            this.lblError.Name = "lblError";
-            this.lblError.Size = new System.Drawing.Size(44, 17);
-            this.lblError.TabIndex = 6;
-            this.lblError.Text = "Error";
             // 
             // Form1
             // 

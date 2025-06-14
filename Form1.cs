@@ -54,5 +54,10 @@ namespace Perimetro_de_un_cuadrado
             txtLado.Text=string.Empty; 
             lblError.Text=string.Empty;
         }
+
+        private void lblError_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
